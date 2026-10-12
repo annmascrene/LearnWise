@@ -1,0 +1,5 @@
+print("Welcome to LearnWise!")
+name=input("Enter your name:")
+course=input("What are you learning?")
+hours=float(input("How many hours will you study today?"))
+goal=input()
